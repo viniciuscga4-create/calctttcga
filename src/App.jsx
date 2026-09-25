@@ -136,8 +136,8 @@ const handleSave = () => {
           --bg: #17151a;
           --surface: #211d26;
           --surface2: #2a2530;
-          --stencil: #a89ade;
-          --stencil-dim: #5f5580;
+          --stencil: #69c0cb;
+          --stencil-dim: #2d9599;
           --gold: #d9b26b;
           --text: #efe9e2;
           --text-muted: #9891a0;
